@@ -13,7 +13,7 @@ namespace Klinik
     public partial class Patient : System.Web.UI.Page
     {
         Connection _conn;
-        Utilities _util;
+        Utilities _util; 
 
         public Patient()
         {
